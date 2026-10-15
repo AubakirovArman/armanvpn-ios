@@ -1,0 +1,9 @@
+armanVPN iOS
+
+Check Point CCC / SLIM protocol interoperability is adapted from snx-rs 6.5.1
+by Dmitry Pankratov and contributors.
+Source: https://github.com/ancwrd1/snx-rs
+Revision: 86aa48031888050f957af7b6adf2c2e39d4745fd
+License: GNU Affero General Public License version 3. See COPYING.txt.
+
+The iOS implementation uses NetworkExtension and Network.framework in Swift.
